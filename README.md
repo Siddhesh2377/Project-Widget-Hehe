@@ -23,6 +23,10 @@ A sleek Android home screen widget that shows a random motivational quote each t
 - Kotlin or Java
 - Minimum SDK: (set your min SDK here)
 
+### BUILD
+
+Can Download The Build from here : https://github.com/Siddhesh2377/Project-Widget-Hehe/releases/tag/Debug-Build
+
 ---
 
 ## Python Assignment: File Analyzer CLI Tool (`/Project`)
