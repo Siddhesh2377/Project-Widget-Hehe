@@ -1,0 +1,18 @@
+1. Python Assignment: File Analyzer CLI Tool
+Objective:Create a Python command-line tool that analyzes a text file and gives a summary report.
+
+Requirements: Accept a .txt file as input.
+Output the following:
+
+Total number of words.
+Top 5 most frequent words (ignore common stop words like "the", "is", "and").
+Average word length.
+Number of sentences.
+
+2. Android Assignment: Daily Quote Widget
+Objective: Build a home screen widget that displays a random motivational quote every time the user taps it.
+
+Requirements:
+Create a resizable home screen widget.
+On tap, the quote updates to a new random one from a predefined list (minimum 20 quotes).
+Display the quote and author name in a visually appealing way.
